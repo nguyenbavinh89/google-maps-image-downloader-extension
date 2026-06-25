@@ -1,5 +1,8 @@
 site_name: Google Maps Image Downloader Extension
-theme: material # Hoặc theme 'mkdocs' mặc định nếu bạn chưa cài theme material
+site_url: https://downloadmapimage.com/
+
+theme:
+  name: material
 
 nav:
   - Home: index.md
