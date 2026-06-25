@@ -1,2 +1,2 @@
-mkdocs>=1.5.0
-mkdocs-material>=9.0.0 # Nếu bạn dùng theme material, nếu không thì có thể để trống hoặc chỉ cần mkdocs
+mkdocs>=1.6
+mkdocs-material>=9.5
